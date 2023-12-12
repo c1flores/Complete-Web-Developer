@@ -50,6 +50,8 @@ The course is comprehensive, covering a wide range of topics essential for web d
 | Bonus Sections | AMA Sessions, Coding Challenges, Redux Tutorial |
 | Extra for Windows Users | Windows-Specific Tutorials |
 
+<br />
+
 ## Technologies Covered
 The course covers a wide range of technologies essential for modern web development, including but not limited to:
 
@@ -77,10 +79,14 @@ The course covers a wide range of technologies essential for modern web developm
   <img height="40" align="center" alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </div>
 
+<br />
+
 ## How to Start
 1. Read Through Each Section: Each section in this repository corresponds to a module in the course. Start from the beginning and progress through each section methodically.
    
 2. Perform Code-Along Exercises: For each section, there are code-along exercises. These are practical tasks where you can apply what you've learned. It's crucial to actually code along rather than just reading, as this will enhance your understanding and skills.
+
+<br />
 
 ## Course Structure
 1. Section-by-Section Learning: Each section is designed to build upon the previous one. Start from the 'Introduction' and work your way through to the 'Bonus Sections'. Each section contains a mix of theoretical concepts and practical applications.
