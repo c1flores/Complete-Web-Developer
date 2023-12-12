@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Complete Web Developer: Zero to Mastery
+# Complete Web Developer
 <!-- omit in toc -->
 ## Table of Contents
 - [Overview](#overview)
