@@ -20,7 +20,6 @@ The course is comprehensive, covering a wide range of topics essential for web d
 
 | Section | Topics Covered |
 |---------|----------------|
-| Introduction | Course Overview, Setting Goals, Understanding the Video Player |
 | How The Internet Works | Browsing the Web, Internet Backbone, Traceroute |
 | History Of The Web | WWW vs Internet, HTML, CSS, JavaScript |
 | HTML5 | Building Websites, HTML Tags, Forms |
