@@ -65,7 +65,7 @@
 
 <br />
 
-![](https://github.com/c1flores/Complete-Web-Developer/assets/81927296/dc291455-f76a-4294-a159-ae1cf5dc2909)
+![](https://github.com/c1flores/Complete-Web-Developer/assets/81927296/31e0c487-c839-49ec-8f83-2207ca74e33a)
 
 ## Breaking Google
 When a user types a URL into their browser and initiates a request for a web page, the browser goes through the steps of querying the DNS to find the corresponding IP address, contacting the web server, and then retrieving the HTML, CSS, and JavaScript necessary to display that page. This is where the initial connection between the user's actions and the internet's infrastructure is established.
@@ -85,17 +85,25 @@ Once the browser has downloaded the assets and rendered the web page, this is ty
 
    Wireless Modem on Home: The wireless modem or router connects to the Internet Service Provider's (ISP) network. In a wireless internet link setup, this usually involves a wireless transmission to a nearby tower or antenna.
 
+   <br />
+
 2. Line of Sight Transmission: Wireless internet often relies on line-of-sight transmission, meaning there must be a clear path with no obstructions between the antenna on your home and the ISP's transmitter. This is because certain types of wireless signals (like those used in fixed wireless networks) can be disrupted by physical obstructions such as buildings or trees.
 
    Wireless Transmitter: The signal from the home's antenna reaches a wireless transmitter tower. This tower is part of the ISP's network infrastructure and is responsible for receiving and sending data to and from the user's home network.
+
+   <br />
 
 3. Line of Sight Backhaul: From the wireless transmitter tower, the data is sent to another part of the ISP's network infrastructure. This could be a higher-capacity tower or a direct link to the ISP's data center. "Backhaul" refers to the part of the network that connects the edge of the network (in this case, the user's home) to the core.
 
    ISP Network: The data travels through the ISP's network, which is a series of interconnected routers and servers that manage the data traffic.
 
+   <br />
+
 4. Internet Backbone: The ISP network is connected to the internet backbone, which is a large collection of interconnected high-speed data routes that interconnect different networks worldwide. The backbone is maintained by multiple organizations and is the core of the internet, handling long-distance data transport.
 
    Accessing Web Content: When a user in the home network requests a web page or any other online service, the request goes through the local network to the home's wireless modem, then wirelessly to the ISP's tower. From there, it travels through the ISP's network to the internet backbone, which routes the data to the server where the requested content is hosted.
+
+   <br />
 
 5. Returning Data: The server hosting the content sends the requested data back through the internet backbone, to the ISP's network, and then wirelessly through the line of sight backhaul and transmitter to the user's home modem. Finally, the modem delivers the data to the appropriate device on the home network.
 
