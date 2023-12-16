@@ -3,6 +3,10 @@
 
 <!-- omit in toc -->
 ## Table of Contents
+- [WWW vs. Internet](#www-vs-internet)
+- [HTML, CSS, Javascript](#html-css-javascript)
+- [Developer Fundamentals II](#developer-fundamentals-ii)
+- [Developer History](#developer-history)
 
 <br />
 
