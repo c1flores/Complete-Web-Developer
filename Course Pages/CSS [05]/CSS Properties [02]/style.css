@@ -1,0 +1,28 @@
+/* Selector {
+    Property:value;
+} */
+
+body {
+    background-image: url(backgroundimage.jpg);
+    background-size: cover;
+}
+h2 {
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgb(255 176 170);
+    cursor: pointer;
+}
+
+p {
+    color: pink;
+}
+
+p {
+    color: green;
+}
+
+li {
+    list-style: none;
+    display: inline-block; 
+}
+
